@@ -1,9 +1,9 @@
-:root{
---cor-fundo: #fffff0 ;
---cor-principal: #d8cf1e;
---cor-secundaria: #cd7f32;
---cor-destaque: #ce9f71;
---cor-texto: #1a0f05;
+:root {
+  --cor-fundo: #f5f3ff; /* roxo claro para fundo */
+  --cor-principal: #a29bfe; /* roxo claro mais vibrante */
+  --cor-secundaria: #6c5ce7; /* roxo médio */
+  --cor-destaque: #dfe6e9; /* cor clara para destaque */
+  --cor-texto: #2d3436; /* texto escuro */
 }
 body {
 background-color: var(--cor-fundo);
